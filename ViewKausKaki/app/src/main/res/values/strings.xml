@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">View Kaus Kaki</string>
+    <string name="belom_di_isi">G-Shock GA-100-1A1</string>
+    <string name="deskripsi">Kaus kaki dirancang untuk beberapa kegunaan seperti mengurangi gesekan antara kaki dan alas kaki, membuat kaki tetap hangat, menyerap keringat, dan lain-lain. Kaus kaki biasanya terbuat dari katun, wol, polipropilen, atau terkadang dari nilon.</string>
+    <string name="ukuran">S, M, L, X, XL</string>
+    <string name="jenis">Footbal Socks</string>
+    <string name="warna">Yellow (Kuning)</string>
+    <string name="desain">Didesain comfy dengan warna dasar kuning dan aksen garis hitam</string>
+    <string name="material">82% nylon, 12% spandex, dan 6% karet</string>
+</resources>
